@@ -1,6 +1,6 @@
 package com.itheima.loop;
 
-public class ForDemo02 {
+public class ForTest02 {
     public static void main(String[] args) {
         // 案例
         // 需求：求1-5之间的数据和，并把结果在控制台输出
